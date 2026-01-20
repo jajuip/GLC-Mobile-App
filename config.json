@@ -1,0 +1,95 @@
+{
+  "map": {
+    "extent": [-88.1271,47.3506],
+    "basemap": "satellite",
+    "zoom": 14
+  },
+  "navbar": {
+    "title": "Reflections of Gratiot",
+    "backgroundColor": "#ffffff",
+    "logo": "assets/GLCBanner.png",
+    "textColor": "#212c6c"  
+  },
+  "layers": {
+    "storiesLayerUrl": "https://portal1-geo.sabu.mtu.edu/server/rest/services/Hosted/Gratiot_Lake_Conservancy_Story_Points_Layer/FeatureServer",
+    "indexLayerUrl": "https://portal1-geo.sabu.mtu.edu/server/rest/services/Hosted/Gratiot_Lake_Conservancy_Map_Index/FeatureServer"
+  },
+  "markers": {
+    "storyMarkerUrl": "assets/blue_marker_story.png",
+    "storyMarkerWidth": "20px",
+    "storyMarkerHeight": "20px"
+  },
+  "splashScreen": {
+    "visible": true,
+    "title": "Reflections of Gratiot - A mobile storytelling App",
+    "titleColor": "#ffffff",
+    "backgroundColor": "#ffffff",
+    "textColor": "#212c6c",
+    "paragraphText": "Hi Dan. What Text would you like here to both explain the app, give some background about the Gratiot Lake Conservancy, and link to appropriate websites?",
+    "image": "assets/GLC-Logo.png",
+    "navBarColor": "#212c6c",
+    "navBarTextColor": "#212c6c",
+    "closeTextColor": "#ffffff"
+  }, 
+  "body": {
+    "textColor": "#000000",
+    "backgroundColor": "#ffffff"
+  },
+  "footer": {
+    "backgroundColor": "#ffffff",
+    "iconColorInactive": "#5f5f5f",
+    "iconColorActive": "#0054e9"
+  },
+  "mapCountIcon": {
+    "backgroundColor": "#0054e9",
+    "textColor": "#fff"
+  },
+  "gpsButton": {
+    "backgroundColor": "#ffffff",       
+    "iconColorInactive": "#000000",
+    "iconColorActive": "#0054e9"  
+  },   
+  "storyButtons": {
+    "backgroundColor": "#5f5f5f",
+    "fontColor": "#ffffff"
+  },
+  "storySubmittedIcon": {
+    "color": "#0054e9"
+  },
+  "storyProgressBar": {
+    "colorInactive": "#0163aa",
+    "colorActive": "#1a73b3"
+  },
+  "storyPopup": {
+    "headerBackgroundColor": "#5f5f5f",
+    "headerTextColor": "#ffffff"   
+  },
+  "mapTab": {
+    "backgroundColor": "#ffffff",
+    "textColor": "#5f5f5f"
+  },
+  "storyTab": {
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000"
+  },
+  "transparencySlider": {
+    "barColor": "#83A1A0",    
+    "barColorActive": "#d7d8da",
+    "barColorInactive": "#83A1A0",
+    "handleColor": "#ffffff"
+  },
+  "links": [
+    {
+      "text": "About the project",
+      "url": "https://www.keweenawhistory.com/about-the-project.html"
+    },
+    {
+      "text": "About the maps",
+      "url": "https://www.keweenawhistory.com/about-the-maps.html"
+    },
+    {
+      "text": "Meet the team",
+      "url": "https://www.keweenawhistory.com/meet-the-team.html"
+    }
+  ]  
+}
