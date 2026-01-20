@@ -11,8 +11,8 @@
     "textColor": "#212c6c"  
   },
   "layers": {
-    "storiesLayerUrl": "https://portal1-geo.sabu.mtu.edu/server/rest/services/Hosted/Gratiot_Lake_Conservancy_Story_Points_Layer/FeatureServer",
-    "indexLayerUrl": "https://portal1-geo.sabu.mtu.edu/server/rest/services/Hosted/Gratiot_Lake_Conservancy_Map_Index/FeatureServer"
+    "storiesLayerUrl": "https://portal1-geo.sabu.mtu.edu/server/rest/services/Hosted/Gratiot_Lake_Conservancy_Story_Points_Layer/FeatureServer/0",
+    "indexLayerUrl": "https://portal1-geo.sabu.mtu.edu/server/rest/services/Hosted/Gratiot_Lake_Conservancy_Map_Index/FeatureServer/0"
   },
   "markers": {
     "storyMarkerUrl": "assets/blue_marker_story.png",
