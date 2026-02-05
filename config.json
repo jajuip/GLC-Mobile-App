@@ -25,8 +25,7 @@
     "titleColor": "#ffffff",
     "backgroundColor": "#ffffff",
     "textColor": "#212c6c",
-    "paragraphText": "Welcome to the Reflections of Gratiot mobile storytelling app! Gratiot Lake holds a special place in the hearts and minds of many people over many generations. This app allows for the collective sharing of memories, locations, and mutli-media files with state-of-the-art geospatial technology from the convenience of your personal smartphone, tablet, or computer. The information (locations, stories, and multi-media files) you share will be securely stored on MTU Geospatial Research Facility servers and hosted publicly on the Gratiot Lake Conservancy WebAtlas. Stories will be anonymous unless the author chooses to disclose their identity, especially for contact purposes. Please DO NOT share ecologically or culturally sensitive locations, private/personal data, or offensive content. All shared stories will be reviewed by GLC personnel. Flagrant content will be removed promptly. 
- ",
+    "paragraphText": "Welcome to the Reflections of Gratiot mobile storytelling app! Gratiot Lake holds a special place in the hearts and minds of many people over many generations. This app allows for the collective sharing of memories, locations, and mutli-media files with state-of-the-art geospatial technology from the convenience of your personal smartphone, tablet, or computer. The information shared is securely stored on a server hosted by the Geospatial Research Facility of Michigan Tech. Please DO NOT share ecologically or culturally sensitive locations, or offensive content. All shared stories will be reviewed by GLC personel. Flagrant content will be removed promptly.",
     "image": "assets/GLC-Logo.png",
     "navBarColor": "#212c6c",
     "navBarTextColor": "#212c6c",
